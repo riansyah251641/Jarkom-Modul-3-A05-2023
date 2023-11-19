@@ -9,7 +9,7 @@
 
 ## Topologi
 
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/topology.png)
+![alt text](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/blob/main/img/topology.png?raw=true)
 
 ## Config
 
